@@ -26,4 +26,13 @@ Debuggex is a powerful online tool designed to simplify the process of creating 
 * [Cyber Security in 7 minutes](https://www.youtube.com/watch?v=inWWhr5tnEA&ab_channel=Simplilearn) --- a video explaining about cyber security in 7 minutes.
 <br>
 
+### Week 3
+* [Unix / Linux - File System Basics](https://www.tutorialspoint.com/unix/unix-file-system.htm) --- explanations, examples, and tutorials covering various aspects of the Unix file system.
+<br>
+
+* [Linux Directories Explained in 100 Seconds](https://www.youtube.com/watch?v=42iQKuQodW4&ab_channel=Fireship) --- a video explaining about linux directories in 100 seconds
+<br>
+
+* [Linux File System/Structure](https://www.youtube.com/watch?v=HbgzrKJvDRw&ab_channel=DorianDotSlash) --- a video explaining about the linux file system/structure
+<br>
 <hr>
