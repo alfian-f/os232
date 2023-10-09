@@ -32,4 +32,7 @@ Debuggex is a powerful online tool designed to simplify the process of creating 
 
 * [Linux File System/Structure](https://www.youtube.com/watch?v=HbgzrKJvDRw&ab_channel=DorianDotSlash) --- a video explaining about the linux file system/structure
 <br>
+
+* [SCP Command Guide](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/) --- a website on how to use the SCP command
+<br>
 <hr>
