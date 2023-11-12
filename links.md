@@ -38,4 +38,7 @@ Debuggex is a powerful online tool designed to simplify the process of creating 
 
 * [fork()](https://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/fork/create.html) --- a website about fork() system call
 <br>
+
+* [Process Synchronization](https://www.scaler.com/topics/operating-system/process-synchronization-in-os/) --- a website about process synchronization in os
+<br> 
 <hr>
