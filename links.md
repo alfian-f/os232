@@ -41,4 +41,5 @@ Debuggex is a powerful online tool designed to simplify the process of creating 
 
 * [Process Synchronization](https://www.scaler.com/topics/operating-system/process-synchronization-in-os/) --- a website about process synchronization in os
 <br> 
+<br>
 <hr>
